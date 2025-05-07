@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jpn078ux5-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/jpn078ux5-go-gitops
